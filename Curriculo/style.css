@@ -1,0 +1,106 @@
+body{
+    background: #dfdfdf;
+    font-family: 'Roboto', sans-serif;
+    color: #222222;
+    margin: 0;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    margin: 30px 30px 0 30px;
+    box-shadow: 2px 2px 10px #959595;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #9e06c1;
+}
+
+.section {
+    text-align: center;
+    margin-top: 0;
+    font-size: 12px;
+    color: #494949;
+    font-weight:100;
+    letter-spacing: -1px;
+    line-height: 0px;
+}
+
+h3 {
+    color: #6e0486;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+p {
+    line-height: 25px;
+    margin-top: 0;
+}
+
+.contact{
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.contact-item {
+    margin-right: 20px;
+}
+
+.contact-item p {
+    margin: 5px 0;
+}
+
+.contact-item a {
+    text-decoration: none
+}
+
+.jobs-list{
+    list-style: none;
+    padding-left: 10px;
+}
+
+.formation{
+    list-style: none;
+    padding-left: 10px;
+}
+
+footer {
+    text-align: center;
+    color: #808080;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #808080;
+    text-decoration: none;
+    margin: 0 10px;
+}
